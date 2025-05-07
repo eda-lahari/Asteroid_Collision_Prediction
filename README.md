@@ -112,7 +112,6 @@ We utilized two main datasets:
 
 ---
 
-## 📚 References
 
 ## 📚 References
 
